@@ -5,4 +5,4 @@ Enzo de Oliveira Farias
 # RA
 * '247067'
 # Curso
-* `Engenharia da Computaç`
+* `Engenharia da Computação`
