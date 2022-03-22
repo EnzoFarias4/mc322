@@ -11,7 +11,7 @@ Estrutura de pastas:
 
 ## Notebook 1 sobre Empréstimos
 
-> Coloque um link para o arquivo do notebook com a resolução da primeira tarefa. Ele estará dentro da pasta `notebook`.
+[notebook1](https://github.com/EnzoFarias4/mc322/blob/main/lab01/notebook/emprestimo01.ipynb)
 
 ## Notebook 2 sobre Empréstimos e TAD (opcional)
 
