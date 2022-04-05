@@ -13,6 +13,3 @@ Estrutura de pastas:
 
 [notebook1](https://github.com/EnzoFarias4/mc322/blob/main/lab01/notebook/emprestimo01.ipynb)
 
-## Notebook 2 sobre Empréstimos e TAD (opcional)
-
-[notebook2](https://github.com/EnzoFarias4/mc322/blob/main/lab01/notebook/primos01.ipynb)
