@@ -15,3 +15,6 @@ Gera o numero aleatório e converte num decimal equivalente em binario; exemplo 
 # Desafio 4 : 
   Gera uma array de 50 numeros entre [0, 2500] e soma com 11498; garantindo que todo valor x da array satisfaça : 2500 < x < 15.000;
   em paralelo realiza o cálculo da media aritmetica dos 50 salarios e apos isso verifica quantos funcionarios ganham acima da média
+  
+# Notebook da Tafera:
+[notebook2](https://github.com/EnzoFarias4/mc322/blob/main/lab02/notebook/lab02-java-estruturas-ra247067.ipynb)
