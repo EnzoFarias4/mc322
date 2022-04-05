@@ -11,5 +11,5 @@ Estrutura de pastas:
 
 ## Notebook 1 sobre Empréstimos
 
-[notebook1](https://github.com/EnzoFarias4/mc322/blob/main/lab01/notebook/emprestimo01.ipynb)
+[notebook1](https://github.com/EnzoFarias4/mc322/blob/main/lab01/notebook/emprestimo01-ra247067.ipynb)
 
