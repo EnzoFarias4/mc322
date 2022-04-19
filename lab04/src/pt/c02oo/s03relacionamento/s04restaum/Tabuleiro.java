@@ -34,6 +34,7 @@ public class Tabuleiro {
 				mapa[7*i1 + j1].getTipo() != 'P') {return;}
 		int i2 = end.charAt(1) - '1';
 		int j2 = end.charAt(0) - 'a';
+		if(7*i2 + j2 >= 49){return ;}
 		int k = mapa[7*i1 + j1].permissao(end, mapa[7*i2 + j2].getTipo());
 		if(k != -1 &&
 				mapa[k].getTipo() == 'P') {
